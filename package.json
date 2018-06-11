@@ -1,5 +1,6 @@
 {
   "name": "@anypoint-components/anypoint-button",
+  "version": "3.0.0-preview",
   "description": "Anypoint styled button.",
   "main": "anypoint-button.js",
   "authors": [
@@ -8,8 +9,8 @@
   "private": true,
   "dependencies": {
     "@anypoint-components/anypoint-styles": "github:anypoint-components/anypoint-styles#3.0.0-preview",
-    "@polymer/polymer": "^3.0.0",
-    "@polymer/iron-behaviors": "^3.0.0-pre.19"
+    "@polymer/iron-behaviors": "^3.0.0-pre.19",
+    "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {
     "@polymer/gen-typescript-declarations": "^1.1.1",
